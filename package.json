@@ -1,0 +1,35 @@
+{
+  "name": "ivon-giveaway-manager",
+  "version": "1.0.0",
+  "description": "Giveaway manager for ivon giveaways open source discord giveaway bot",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandarutharuneth/ivon-giveaways-manager.git"
+  },
+  "keywords": [
+    "ivon-giveaways-manager",
+    "discord",
+    "discord.js",
+    "giveaways",
+    "winner",
+    "framework",
+    "bot",
+    "discord-giveaways",
+    "ivon",
+    "ivongiveaways",
+    "giveaway"
+  ],
+  "author": "sandarutharuneth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandarutharuneth/ivon-giveaways-manager/issues"
+  },
+  "homepage": "https://github.com/sandarutharuneth/ivon-giveaways-manager#readme"
+}
